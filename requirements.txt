@@ -1,0 +1,8 @@
+# Core Web & API Framework
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.0.0
+
+# Optional (Built-in standard library urllib is used by default)
+# requests>=2.31.0
+# openai>=1.12.0
