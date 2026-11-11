@@ -9,7 +9,7 @@ An automated penetration testing and safety auditing framework designed to evalu
 
 ---
 
-## 🎓 Why the Professor Will Love It
+## 🎓 Why You Will Love It
 
 1. **Bridges Ethical Hacking & AI Security:**
    - In traditional web security, vulnerabilities emerge when code and data are concatenated without sanitization (e.g., SQL Injection, XSS).
